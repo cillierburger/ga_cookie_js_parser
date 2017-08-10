@@ -1,0 +1,68 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "ga_cookie_js_parser@0.0.5",
+        "scope": null,
+        "escapedName": "ga_cookie_js_parser",
+        "name": "ga_cookie_js_parser",
+        "rawSpec": "0.0.5",
+        "spec": "0.0.5",
+        "type": "version"
+      },
+      "/home/cillier/ottonova/serverless/function/newsletter"
+    ]
+  ],
+  "_from": "ga_cookie_js_parser@0.0.5",
+  "_id": "ga_cookie_js_parser@0.0.5",
+  "_inCache": true,
+  "_location": "/ga_cookie_js_parser",
+  "_npmUser": {
+    "name": "serjopepper",
+    "email": "serjopepper@gmail.com"
+  },
+  "_npmVersion": "1.4.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "ga_cookie_js_parser@0.0.5",
+    "scope": null,
+    "escapedName": "ga_cookie_js_parser",
+    "name": "ga_cookie_js_parser",
+    "rawSpec": "0.0.5",
+    "spec": "0.0.5",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ga_cookie_js_parser/-/ga_cookie_js_parser-0.0.5.tgz",
+  "_shasum": "d06b27ed894b6f1585aa730f636d97aeb1b64050",
+  "_shrinkwrap": null,
+  "_spec": "ga_cookie_js_parser@0.0.5",
+  "_where": "/home/cillier/ottonova/serverless/function/newsletter",
+  "author": {
+    "name": "Serjo Pepper"
+  },
+  "dependencies": {},
+  "description": "Parse GA cookies with JS",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "d06b27ed894b6f1585aa730f636d97aeb1b64050",
+    "tarball": "https://registry.npmjs.org/ga_cookie_js_parser/-/ga_cookie_js_parser-0.0.5.tgz"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "main": "parser.js",
+  "maintainers": [
+    {
+      "name": "serjopepper",
+      "email": "serjopepper@gmail.com"
+    }
+  ],
+  "name": "ga_cookie_js_parser",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "version": "0.0.5"
+}
